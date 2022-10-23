@@ -1,8 +1,8 @@
 <h1 align="center">Привет всем. Это мой калькулятор на Windows Forms C#
-<h3 align="center">Карпович Артём 20ИТ-2 // Лабораторная работа №1 ВСРПП</h3>
+<h3 align="center">Карпович Артём 20ИТ-2 || Лабораторная работа №1 ВСРПП</h3>
 
 ## Предварительный осмотр приложения и его запуск
-Приложение находится в моем репозиторие по ссылке:"https://github.com/Arsiom/Calculator". Скачивайте ZIP архив и запускаете через файл Calculater.sln
+Приложение находится в моем репозиторие по ссылке:"https://github.com/Arsiom/Calculator". Скачивайте ZIP архив и запускаете приложение через файл Calculater.sln.
 
 ![image](https://user-images.githubusercontent.com/95384044/197418868-f8bae548-0ad6-4f74-8891-bb24b218b8e1.png)
 
