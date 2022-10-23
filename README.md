@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/95384044/197421026-08c7d7d6-f8b3-482d-91bb-8ada23808be6.png)
 
-### Изменения знака
+### Изменение знака
 Для изменения знака числа, требуется нажать на кнопку "+/-", как показано на приведенной картинке ниже:
 
 ![image](https://user-images.githubusercontent.com/95384044/197421967-51ea6fe2-9f0d-4513-894c-63bb104ba2c4.png)
